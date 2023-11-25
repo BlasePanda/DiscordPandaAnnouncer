@@ -54,5 +54,5 @@ This is a Discord bot that welcomes users when they join a voice channel and per
 
 
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=badge?page_id=BlasePanda.DiscordPandaAnnouncer&left_color=green&right_color=red)
+[![HitCount](http://hits.dwyl.com/BlasePanda/DiscordPandaAnnouncer.svg)](http://hits.dwyl.com/BlasePanda/DiscordPandaAnnouncer)
 
