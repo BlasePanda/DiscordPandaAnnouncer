@@ -51,5 +51,5 @@ This is a Discord bot that welcomes users when they join a voice channel and per
 
 <div align="center">
   <img alt="Visitor Stats" 
-      src="https://widgetbite.com/stats/<github-username>"/>  
+      src="https://widgetbite.com/stats/<BlasePanda>"/>  
 </div>
