@@ -48,8 +48,3 @@ This is a Discord bot that welcomes users when they join a voice channel and per
 
 - The bot will automatically welcome users when they join a voice channel.
 - Use the $google <query> command to perform a Google search and receive the top result inside Discord chat.
-
-<div align="center">
-  <img alt="Visitor Stats" 
-      src="https://widgetbite.com/stats/<BlasePanda>"/>  
-</div>
