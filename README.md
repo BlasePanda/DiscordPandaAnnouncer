@@ -52,5 +52,5 @@ This is a Discord bot that welcomes users when they join a voice channel and per
 
 
 
-[![HitCount](http://hits.dwyl.com/BlasePanda/DiscordPandaAnnouncer.svg)](http://hits.dwyl.com/BlasePanda/DiscordPandaAnnouncer)
+[View Hit Count](http://hits.dwyl.com/BlasePanda/DiscordPandaAnnouncer)
 
